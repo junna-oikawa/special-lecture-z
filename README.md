@@ -1,1 +1,1 @@
-# special-lecture-z
+# 特論zの課題です。
